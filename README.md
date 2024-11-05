@@ -12,5 +12,3 @@ Score Display: Track and display the player’s score after each round.
 Points System: Award points based on the number of attempts taken to guess correctly.
 
 With these features, the Number Guessing Game becomes an interactive way to practice programming concepts in Java, like loops, conditionals, and user input handling. It’s a great beginner project to strengthen our Java skills while creating a fun game!
-
-
